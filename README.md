@@ -9,6 +9,8 @@ If no response from any, assign blame.
 
 
 Blame:
+
+
 1. Is the local link active/connected?
   * Remedy: Connect computer to the network
   * Blame: Customer. Bad wiring/configuration
