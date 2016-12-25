@@ -1,0 +1,23 @@
+{
+  "name": "blamegame",
+  "version": "1.0.0",
+  "description": "Figure out who's to blame for bad internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmale1/blamegame.git"
+  },
+  "author": "Jim Male",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/jmale1/blamegame/issues"
+  },
+  "homepage": "https://github.com/jmale1/blamegame#readme",
+  "dependencies": {
+    "mongodb": "^2.2.16",
+    "speedtest-net": "^1.2.11"
+  }
+}
